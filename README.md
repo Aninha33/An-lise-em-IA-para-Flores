@@ -1,2 +1,3 @@
-# An-lise-em-IA-para-Flores
- Inteligência Artificial (IA) para a identificação de flores, por meio de um dataset com informações sobre 16 tipos de flores diferentes, por meio de uma rede neural convolucional (CNN).
+# Analise em IA para Flores
+
+O objetivo deste projeto é desenvolver uma abordagem baseada em Inteligência Artificial (IA) para a identificação de flores, uma tarefa desafiadora devido à iluminação ou similaridades entre classes e seus formatos. As flores desempenham um papel essencial na nossa ecologia e cultura, e a sua identificação precisa é de grande importância em campos como a botânica, agricultura, conservação ambiental e até mesmo no interesse geral da apreciação da natureza, auxiliando também em seus cuidados. A analise é realizada por meio de um dataset com informações sobre 16 tipos de flores diferentes, por meio de uma rede neural convolucional (CNN).
